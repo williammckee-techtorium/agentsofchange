@@ -1,8 +1,8 @@
 <script>
     import "virtual:windi.css"
-    import Sidebar from "../components/sidebar.svelte"
+    import Topbar from "../components/topbar.svelte"
 </script>
-<Sidebar/>
+<Topbar/>
     <slot/>
 
 

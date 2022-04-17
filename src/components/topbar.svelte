@@ -6,10 +6,11 @@
 
   // List of navigation items
   const navItems = [
-    { label: "Agents of Change", href: "https://agentsofchange.live" },
+    { label: "Agents of Change", href: "/" },
     { label: "About", href: "/about" },
-    { label: "Campaigns", href: "/campaigns" },
-    { label: "Contact", href: "/contact" }
+    { label: "Services", href: "/services" },
+    { label: "Clients", href: "/clients" },
+    { label: "Contact", href: "/contact" },
   ];
 
   // Mobile menu click event handler
